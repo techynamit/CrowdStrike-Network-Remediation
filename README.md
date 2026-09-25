@@ -2,7 +2,7 @@
 
 Automated PowerShell utility designed to fix stuck DNS resolver states, corrupt TCP/IP stacks, and unresponsive corporate VPN adapters across enterprise endpoints.
 
-### 🚀 Execution in CrowdStrike RTR
+### Execution in CrowdStrike RTR
 Deployed remotely via CrowdStrike Falcon Real-Time Response (RTR) console to bypass lost network interface access:
 
 ```bash
